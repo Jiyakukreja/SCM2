@@ -1,0 +1,32 @@
+<DOCTYPE HTML>
+    <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title> Note Log </title>
+            <link  href="Front Page editing.css" rel="stylesheet" type=""text/css">
+            </head>
+<body>            
+
+<header>
+    <h2 class="logo">Note Log</h2>
+    <nav class="navigation">
+        <a href="Front page.html">HOME</a>
+        <a href="About.html">ABOUT</a>
+        <a href="NOTES.html">NOTES</a>
+        <a href="DESIGN.html">DESIGN</a>
+        <a href="CONTACT.html">CONTACT</a>
+        <button class="btnLogin-popup">Login</button>
+    </nav>
+</header>
+
+<p style="font-size: 24; font-style:italic; font-family: 'Times New Roman', Times, serif; font-weight: 500; padding: 200px; border-radius: 5%;" class="space">
+    
+    Note Log is a web-based app that aims to solve the problem of having to think where to search for something in addition to what to search for to best find it. It aggregates data from all the places you store information, allowing you to search through all of them in a single query1. The app is designed to be simple and intuitive, with a single search bar that lets you find what you are looking for quickly and easily.
+    
+
+The app is available on the web and can be accessed from any device with an internet connection. Its also free to use, so you do nott have to worry about any subscription fees or hidden costs
+
+</body>
+</html>
