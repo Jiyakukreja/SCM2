@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Beautiful Scenery</title>
+</head>
+<body style="background-color: #87CEEB; /* Sky Blue background */">
+  <div style="position: relative; width: 100%; height: 100vh; overflow: hidden;">
+    <!-- Sun -->
+    <div style="position: absolute; top: 10%; left: 10%; background-color: #FFD700; border-radius: 50%; width: 100px; height: 100px;"></div>
+    <!-- Mountains -->
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; height: 50%; background-color: #808080;"></div>
+    <!-- Hills -->
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; height: 30%; background-color: #A9A9A9;"></div>
+    <!-- Trees -->
+    <div style="position: absolute; bottom: 20%; left: 20%; width: 100px; height: 200px; background-color: #228B22; transform: rotate(-30deg);"></div>
+    <div style="position: absolute; bottom: 20%; left: 40%; width: 100px; height: 200px; background-color: #228B22;"></div>
+    <div style="position: absolute; bottom: 20%; right: 20%; width: 100px; height: 200px; background-color: #228B22; transform: rotate(30deg);"></div>
+    <!-- River -->
+    <div style="position: absolute; bottom: 10%; left: 0; right: 0; height: 20%; background-color: #87CEEB; border-top: 5px solid #4169E1;"></div>
+    <!-- Grass -->
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; height: 10%; background-color: #32CD32;"></div>
+  </div>
+</body>
+</html>
