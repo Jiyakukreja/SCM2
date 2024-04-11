@@ -1,6 +1,6 @@
 <!DOCTYPE html>
  *{
-    margin: 0;
+    margin: 10;
     padding: 100;
     box-sizing:  border-box;
     font-family: 'Poppins',sans-serif;
