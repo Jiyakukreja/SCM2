@@ -9,7 +9,7 @@
     <style> 
 body {  
         font-family: White, sans-serif;  
-        height: 80%;  
+        height: 100%;  
 }  
     
 .background-img {  
