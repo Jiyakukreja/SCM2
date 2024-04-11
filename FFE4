@@ -1,7 +1,7 @@
 <!DOCTYPE html>
  *{
-    margin: 20;
-    padding: 20;
+    margin: 200;
+    padding: 200;
     box-sizing:  border-box;
     font-family: 'Poppins',sans-serif;
 }
